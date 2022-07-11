@@ -52,7 +52,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/lminhlam/hugo-toha.github.io
+  gitRepo: https://github.com/lminhlam/lminhlam.github.io
   # Default branch of your Git repo
   gitBranch: main
 
