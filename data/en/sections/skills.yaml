@@ -16,22 +16,18 @@ skills:
   logo: /images/sections/skills/microsoft.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
 
-
 - name: Cloud Computing
   logo: /images/sections/skills/azure.png
   summary: "Worked with most of the major clouds Azure"
-
 
 - name: PowerBI
   logo: /images/sections/skills/Power-BI.png
   summary: "Storytelling with Data by using Power Platform"
 
-
 - name: .Net
   logo: /images/sections/skills/Net.png
   summary: "Know .Net programming. Used for contest programming and problem solving."
 
-  
-- name: Other Skill
+  - name: Other Skill
   logo: /images/sections/skills/language.png
-  summary: "Join many projects in different languages (SuitScript, Boomi, Laravel,...) ​​as a developer/leader"
+  summary: "Join many projects in different languages (SuitScript, Boomi, Laravel,...) as a developer/leader"
