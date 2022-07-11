@@ -28,6 +28,6 @@ skills:
   logo: /images/sections/skills/net.png
   summary: "Know .Net programming. Used for contest programming and problem solving."
 
-  - name: Other Skill
+- name: Other Skill
   logo: /images/sections/skills/language.png
   summary: "Join many projects in different languages (SuitScript, Boomi, Laravel,...) as a developer/leader"
