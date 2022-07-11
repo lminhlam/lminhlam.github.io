@@ -25,7 +25,7 @@ skills:
   summary: "Storytelling with Data by using Power Platform"
 
 - name: .Net
-  logo: /images/sections/skills/Net.png
+  logo: /images/sections/skills/net.png
   summary: "Know .Net programming. Used for contest programming and problem solving."
 
   - name: Other Skill
