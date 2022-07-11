@@ -8,63 +8,59 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Storytelling with Data by using Power Platform
+
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Win2Win.
+  url: "https://www.lminhlam.netlify.app"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'My name is Peter Lam. I am a Microsoft Certified Technical specializing in developing solutions using Microsoft Power Platform, PowerBI and Dynamics 365 Supply Chain Management. I am open for helping and challenging opportunities. For help or hire please contact at lminhlam@gmail.com '
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "lminhlam@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://www.github.com/example"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+#- name: LinkedIn
+#  icon: "fab fa-linkedin"
+#  url: "#"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations
+  url: "https://images.credly.com/size/680x680/images/71381b3b-47c9-4cae-9ada-3b02367bef5b/Exam-Development-Extensions-and-Deployment.png"
+  badge: "https://www.credly.com/badges/3110d807-2985-4efd-b9b0-53ea0a6f8500/linked_in_profile"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Architecting Microsoft Azure Solutions
+  url: "https://www.credly.com/badges/994f1d14-7aae-4757-ab81-13ec68d356cf"
+  badge: "https://images.credly.com/size/680x680/images/f0f3e598-029a-46a2-b1f2-1ff851f2e8e5/Microsoft_Exam534.png"
 
 - type: soft-skill-indicator
   name: Leadership
