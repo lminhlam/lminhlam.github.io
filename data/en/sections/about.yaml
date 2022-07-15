@@ -16,7 +16,7 @@ company:
   url: "https://www.lminhlam.netlify.app"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "https://github.com/lminhlam/resume/raw/master/Resume.pdf"
 
 # a summary about you
 summary: 'My name is Peter Lam. I am a Microsoft Certified Technical specializing in developing solutions using Microsoft Power Platform, PowerBI and Dynamics 365 Supply Chain Management. I am open for helping and challenging opportunities. For help or hire please contact at lminhlam@gmail.com '
@@ -36,9 +36,9 @@ socialLinks:
 #  icon: "fab fa-stack-overflow"
 #  url: "#"
 
-#- name: LinkedIn
-#  icon: "fab fa-linkedin"
-#  url: "#"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/le-lam/"
 
 #- name: Twitter
 #  icon: "fab fa-twitter"
