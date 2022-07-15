@@ -44,9 +44,9 @@ socialLinks:
 #  icon: "fab fa-twitter"
 #  url: "#"
 
-#- name: Facebook
-#  icon: "fab fa-facebook"
-#  url: "#"
+- name: Youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCkX7rRpLyZy21ZT0EWftdEw"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -54,13 +54,18 @@ socialLinks:
 badges:
 - type: certification
   name: Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations
-  url: "https://images.credly.com/size/680x680/images/71381b3b-47c9-4cae-9ada-3b02367bef5b/Exam-Development-Extensions-and-Deployment.png"
-  badge: "https://www.credly.com/badges/3110d807-2985-4efd-b9b0-53ea0a6f8500/linked_in_profile"
+  url: "https://www.credly.com/badges/3110d807-2985-4efd-b9b0-53ea0a6f8500/linked_in_profile"
+  badge: "https://images.credly.com/size/680x680/images/71381b3b-47c9-4cae-9ada-3b02367bef5b/Exam-Development-Extensions-and-Deployment.png"
 
 - type: certification
   name: Architecting Microsoft Azure Solutions
   url: "https://www.credly.com/badges/994f1d14-7aae-4757-ab81-13ec68d356cf"
   badge: "https://images.credly.com/size/680x680/images/f0f3e598-029a-46a2-b1f2-1ff851f2e8e5/Microsoft_Exam534.png"
+
+- type: certification
+  name: Developing Microsoft SharePoint Server 2013 Core Solutions
+  url: "https://www.credly.com/badges/88f71f23-dd62-481b-86f6-0ff9bd537472"
+  badge: "https://images.credly.com/size/680x680/images/fe56b89f-bbf8-4bc0-b469-6991e01eb6d0/Exam_488-01.png"
 
 - type: soft-skill-indicator
   name: Leadership
