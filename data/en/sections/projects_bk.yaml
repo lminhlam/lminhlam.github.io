@@ -54,3 +54,20 @@ projects:
   url: "https://tanca.io"
   summary: Work and human resources management platform.
   tags: ["React","Mobile", "hobby"]
+
+- name: Scandale
+  logo: /images/sections/projects/s.png
+  role: Developer
+  timeline: "Mar 2021- Feb 2022"
+  url: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: Boomi, Shopify, NetSuite to tackle the integration issue for E-Commerce growth.
+  tags: ["Boomi", "Netsuite", "Shopify" , "EDI" , "hobby"]
+
+- name: Jumpstart Magazine
+  logo: /images/sections/projects/jump.png
+  role: Developer
+  timeline: "Jun 2020 - Dec 2020"
+  url: https://www.jumpstartmag.com/print-magazine/
+  summary: Jumpstart also leads youth innovation education in Hong Kong.
+  tags: ["Jumpstart","wordpress","magazine", "hobby"]
