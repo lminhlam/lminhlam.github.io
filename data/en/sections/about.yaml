@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Explore a Power Platform Solution that has the capability of telling compelling stories through text, images and Power BI.
+designation: 'Explore a Power Platform Solution that has the capability of telling compelling stories through text, images and Power BI.'
 
 # your company information
 company:
-  name: "my House".
+  name: 'My House'.
   url: "#"
 
 # your resume. this file path should be relative to you "static" directory
