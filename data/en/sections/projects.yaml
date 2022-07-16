@@ -21,39 +21,39 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+- name: EDI Integrated Suite
+  logo: /images/sections/projects/eis.png
+  role: Team Lead, Appsource Project Manager
+  timeline: "Sep 2014 - Nov 2022"
+  repo: https://appsource.microsoft.com/en-us/product/dynamics-365-for-operations/dicentralcorporation.edi-integrated-suite-dicentral?tab=Overview # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: EMBEDDED MANAGED EDI FOR MICROSFT DYNAMICS 365 (FINANCE & OPERATIONS/ BUSINESS CENTRAL).
+  tags: ["FINANCE & OPERATIONS", "BUSINESS CENTRAL", "AppSource", "EDI"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: AppSource/AzureMarketplace
+  logo: /images/sections/projects/appsource.png
+  role: Appsource Project Manager
+  timeline: "Step 2018 - Nov 2022"
+  repo: https://appsource.microsoft.com/en-us/marketplace/apps?search=DiCentral&page=1
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Publish the DICENTRAL's product into Appsource/ Azure Marketplace
+  tags: ["smarturn", "Saas", "azuremarketplace", "appsource"]
 
-- name: A sample academic paper
-  role: Team Lead
+- name: TanCa.Io
+  role: Developer
   timeline: "Jan 2017 - Nov 2017"
   url: "https://www.example.com"
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
   tags: ["academic","iot"]
 
-- name: Nocode
+- name: Boomi
   logo: /images/sections/projects/no-code.png
-  role: Nothing
+  role: Developer
   timeline: "Oct 2019 - Dec 2019"
   repo: https://github.com/kelseyhightower/nocode
   #url: ""
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  tags: ["Boomi", "fun"]
 
 - name: Toha
   logo: /images/sections/projects/toha.png
