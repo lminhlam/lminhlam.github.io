@@ -20,16 +20,6 @@ buttons:
 # your projects
 projects:
 
-
-- name: Sales, Overtime Dashboard
-  logo: /images/sections/projects/sales_dashboard.jpg
-  role: Asst. Application Manager
-  timeline: "Feb 2022 - Present"
-  url: https://www.base.vn/
-  #url: ""
-  summary: Responsible for appropriate staffing, staff management, performance management, and continuous service improvement
-  tags: ["Base", "EDI", "Power App"]
-
 - name: AppSource/AzureMarketplace
   logo: /images/sections/projects/appsource.png
   role: Appsource Project Manager
@@ -47,6 +37,16 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Embedded managed EDI for Microsoft Dynamics 365 (FINANCE & OPERATIONS/ BUSINESS CENTRAL).
   tags: ["FINANCE & OPERATIONS", "Business Central", "AppSource", "EDI", "professional"]
+
+
+- name: Sales, Overtime Dashboard
+  logo: /images/sections/projects/sales_dashboard.jpg
+  role: Asst. Application Manager
+  timeline: "Feb 2022 - Present"
+  url: https://www.base.vn/
+  #url: ""
+  summary: Responsible for appropriate staffing, staff management, performance management, and continuous service improvement
+  tags: ["Base", "EDI", "Power App", "hobby"]
 
 - name: TanCa.Io
   role: Developer
