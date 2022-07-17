@@ -24,7 +24,6 @@ skills:
   logo: /images/sections/skills/Power-BI.png
   summary: "Storytelling with Data by using Power Platform"
 
-
 - name: Others
   logo: /images/sections/skills/language.png
-  summary: "Join many projects in different languages (SuitScript, Boomi, Laravel,...) as a developer/leader"
+  summary: "Join many projects in different languages (SuiteScript, Boomi, Laravel,...) as a developer/leader"

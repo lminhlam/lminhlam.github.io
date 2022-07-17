@@ -20,6 +20,24 @@ buttons:
 # your projects
 projects:
 
+- name: EDI projects
+  logo: /images/sections/projects/kwe.jpg
+  role: Asst. Application Manager
+  timeline: "Feb 2022 - Present"
+  url: https://www.kwe.com
+  #url: ""
+  summary: Project management, intergration EDI project, develop internal application
+  tags: ["EDI", "Axway", "professional"]
+
+- name: Sales, Overtime Dashboard
+  logo: /images/sections/projects/sales_dashboard.jpg
+  role: Asst. Application Manager
+  timeline: "Feb 2022 - Present"
+  url: https://www.base.vn/
+  #url: ""
+  summary: Responsible for appropriate staffing, staff management, performance management, and continuous service improvement
+  tags: ["Base", "EDI", "Power App", "professional"]
+
 - name: AppSource/AzureMarketplace
   logo: /images/sections/projects/appsource.png
   role: Appsource Project Manager
@@ -35,18 +53,8 @@ projects:
   timeline: "Sep 2014 - Nov 2022"
   url: https://appsource.microsoft.com/en-us/product/dynamics-365-for-operations/dicentralcorporation.edi-integrated-suite-dicentral?tab=Overview # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Embedded managed EDI for Microsoft Dynamics 365 (FINANCE & OPERATIONS/ BUSINESS CENTRAL).
+  summary: Embedded managed EDI (850in,810out,856out,940out,945in,...) for Microsoft Dynamics 365 (FINANCE & OPERATIONS/ BUSINESS CENTRAL).
   tags: ["FINANCE & OPERATIONS", "Business Central", "AppSource", "EDI", "professional"]
-
-
-- name: Sales, Overtime Dashboard
-  logo: /images/sections/projects/sales_dashboard.jpg
-  role: Asst. Application Manager
-  timeline: "Feb 2022 - Present"
-  url: https://www.base.vn/
-  #url: ""
-  summary: Responsible for appropriate staffing, staff management, performance management, and continuous service improvement
-  tags: ["Base", "EDI", "Power App", "hobby"]
 
 - name: TanCa.Io
   role: Developer
@@ -54,3 +62,19 @@ projects:
   url: "https://tanca.io"
   summary: Work and human resources management platform.
   tags: ["React","Mobile", "hobby"]
+
+- name: jtapro.com
+  role: Developer
+  timeline: "Mar 2020 - Apr 2020"
+  url: "https://jtapro.com.au/"
+  summary: Design Logo,  develop and install website by Wordpress.
+  tags: ["Website","hobby"]
+  
+- name: dprivilegebeauty.com.au 
+  role: Developer
+  timeline: "Dec 2019 - Jan 2020"
+  url: "https://dprivilegebeauty.com.au/"
+  summary: Design Logo,  develop and install website by Laravel.
+  tags: ["Website","hobby"]
+
+  
