@@ -27,7 +27,7 @@ This sample post tests the followings:
 
 ### Tweet Sample
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+{{< tweet user="PeterLam" id="1453110110599868418" >}}
 
 {{< vs >}}
 
