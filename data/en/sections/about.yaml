@@ -16,7 +16,7 @@ company:
   url: "https://www.linkedin.com/in/le-lam/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "https://github.com/lminhlam/resume/raw/master/Resume.pdf"
+resume: "https://github.com/lminhlam/resume/raw/master/resume.pdf"
 
 # a summary about you
 summary: 'My name is Peter Lam. I am a Microsoft Certified Technical specializing in developing solutions using Microsoft Power Platform, PowerBI and Dynamics 365 Supply Chain Management. I am open for helping and challenging opportunities. For help or hire please contact at lminhlam@gmail.com '
